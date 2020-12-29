@@ -100,7 +100,7 @@
   .container {
     display: flex;
     flex-direction: column;
-    padding: 25px;
+    padding:0;
     height: 150%;
     width: 100%;
   }
@@ -119,7 +119,8 @@
   }
   .heading__paragraph {
     width: 80%;
-    word-spacing: 1px;  
+    word-spacing: 1px;
+    margin-bottom: 50px;    
     line-height:145%;
   }
   .heading__btn-1 {
