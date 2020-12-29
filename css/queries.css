@@ -119,8 +119,7 @@
   }
   .heading__paragraph {
     width: 80%;
-    word-spacing: 1px;
-    margin-bottom: 50px;
+    word-spacing: 1px;  
     line-height:145%;
   }
   .heading__btn-1 {
